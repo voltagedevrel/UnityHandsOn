@@ -10,5 +10,5 @@
 <br />
 <br />
 配布させていただきました資料等は、本勉強会においてのみ利用できるものとし、再配布、二次利用その他の目的のための利用を一切禁じます<br />
-Copyright (c) 2017-2018, voltagedevrel
+Copyright (c) 2017-2019, voltagedevrel
 All rights reserved.
